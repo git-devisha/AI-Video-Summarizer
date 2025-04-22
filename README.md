@@ -3,18 +3,18 @@ AI Video Summarizer is a web-based application that leverages Google's Gemini AI
 
 ## Features
 
-- **Video Upload** Easily upload video files for analysi.
-- **AI-Powered Summarization** Utilizes Google's Gemini AI to generate summarie.
-- **User-Friendly Interface** Built with Streamlit for a seamless user experienc.
-- **Real-Time Feedback** Displays analysis results promptly after processin.
+- **Video Upload** Easily upload video files for analysi.
+- **AI-Powered Summarization** Utilizes Google's Gemini AI to generate summarie.
+- **User-Friendly Interface** Built with Streamlit for a seamless user experienc.
+- **Real-Time Feedback** Displays analysis results promptly after processin.
 
 ## Getting Started
 
 ### Prerequisites
 
- Python 3.8 or highr
- Google Generative AI SDK (`google-generativeai)
- Streamlt
+ Python 3.10 
+ Google Generative AI SDK (`google-generativeai)
+ Streamlt
 
 ### Installation
 
@@ -37,7 +37,7 @@ AI Video Summarizer is a web-based application that leverages Google's Gemini AI
    GOOGLE_API_KEY=your_api_key_here
    ``
 ## Usage
-Run the Streamlit applicatio:
+Run the Streamlit applicatio:
 ```bash
 streamlit run app1.py
 ``
@@ -53,4 +53,4 @@ AI-Video-Summarizer/
 └── README.md          # Project documentation
 ``
 ## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixe.
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixe.
